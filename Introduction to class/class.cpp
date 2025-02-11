@@ -1,3 +1,7 @@
+//AUTHOR:MOSES WACHIRA
+//ASSIGNMENT:INTRODUCTION TO CLASS
+//
+
 #include <iostream>
 #include <string>
 
