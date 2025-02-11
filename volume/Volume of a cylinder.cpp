@@ -1,4 +1,6 @@
-//name
+//NAME: MOSES WACHIRA
+//REG NO: BSE-05-0193/2024
+//PROJECT: VOLUME OF A CYLINDER
 
 #include <iostream>
 #include <cmath>
