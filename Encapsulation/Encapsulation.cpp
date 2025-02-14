@@ -1,3 +1,6 @@
+//REG NO: BSE -05-0193/2024
+//NAME: MOSES WACHIRA 
+//:ENCAPSULATION
 
 #include <iostream>
 #include <string>
