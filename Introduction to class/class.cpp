@@ -1,6 +1,6 @@
 //AUTHOR:MOSES WACHIRA
 //ASSIGNMENT:INTRODUCTION TO CLASS
-//
+//REG NO : BSE-05-0193/2024
 
 #include <iostream>
 #include <string>
